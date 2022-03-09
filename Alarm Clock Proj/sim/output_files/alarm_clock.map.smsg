@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at counter.v(65): always construct contains both blocking and non-blocking assignments File: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/counter.v Line: 65
+Warning (10268): Verilog HDL information at alarm_reg.v(55): always construct contains both blocking and non-blocking assignments File: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/alarm_reg.v Line: 55

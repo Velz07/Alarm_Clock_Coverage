@@ -1,0 +1,144 @@
+{D:/MP/Verilog_labs/Alarm Clock Proj/rtl/counter.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_alarm_clock.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_alarm_clock.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_alarm_clock
+
+Top level modules:
+	tb_alarm_clock
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/lcd_driver_4.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/lcd_driver_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_driver_4
+
+Top level modules:
+	lcd_driver_4
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/aclk_timegen.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/aclk_timegen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_timegen
+
+Top level modules:
+	aclk_timegen
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_alarm_reg.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_alarm_reg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm_reg_tb
+
+Top level modules:
+	alarm_reg_tb
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_aclk_timegen.v} {2 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_aclk_timegen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_timegen
+** Warning: D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_aclk_timegen.v(39): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_aclk_timegen.v(39): (vlog-2284) Empty $unit scope found.
+-- Compiling package tb_aclk_timegen_v_unit
+
+Top level modules:
+	tb_aclk_timegen
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/lcd_driver.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/lcd_driver.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_driver
+
+Top level modules:
+	lcd_driver
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/sim/test_file.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/sim/test_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_aclk_controller.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_aclk_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_controller
+
+Top level modules:
+	tb_aclk_controller
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/keyreg.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/keyreg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module keyreg
+
+Top level modules:
+	keyreg
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_lcd_driver.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_lcd_driver.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_driver_tb
+
+Top level modules:
+	lcd_driver_tb
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_counter.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/tb/tb_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_counter
+
+Top level modules:
+	tb_counter
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/alarm_clock_top.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/alarm_clock_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm_clock_top
+
+Top level modules:
+	alarm_clock_top
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/alarm_reg.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/alarm_reg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm_reg
+
+Top level modules:
+	alarm_reg
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/aclk_controller.v} {1 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/aclk_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_controller
+
+Top level modules:
+	aclk_controller
+
+} {} {}} {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v} {0 {vlog -work work -stats=none {D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsm
+** Error (suppressible): D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(63): (vlog-13299) Undefined variable: 'clock'.
+** Error (suppressible): D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(63): (vlog-13299) Undefined variable: 'reset'.
+** Error (suppressible): D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(76): (vlog-13299) Undefined variable: 'clock'.
+** Error (suppressible): D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(76): (vlog-13299) Undefined variable: 'reset'.
+** Error (suppressible): D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(92): (vlog-13299) Undefined variable: 'clock'.
+** Error (suppressible): D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(92): (vlog-13299) Undefined variable: 'reset'.
+** Error: (vlog-13025) D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(117): near ":": Syntax error. Statement labels are only allowed in SystemVerilog.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(30): (vlog-2730) Undefined variable: 'clock'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(30): (vlog-13294) Identifier must be declared with a port mode: clock.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(31): (vlog-2730) Undefined variable: 'reset'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(31): (vlog-13294) Identifier must be declared with a port mode: reset.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(32): (vlog-2730) Undefined variable: 'one_second'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(32): (vlog-13294) Identifier must be declared with a port mode: one_second.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(33): (vlog-2730) Undefined variable: 'time_button'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(33): (vlog-13294) Identifier must be declared with a port mode: time_button.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(34): (vlog-2730) Undefined variable: 'alarm_button'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(34): (vlog-13294) Identifier must be declared with a port mode: alarm_button.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(35): (vlog-2730) Undefined variable: 'key'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(35): (vlog-13294) Identifier must be declared with a port mode: key.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(36): (vlog-2730) Undefined variable: 'reset_count'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(36): (vlog-13294) Identifier must be declared with a port mode: reset_count.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(37): (vlog-2730) Undefined variable: 'load_new_a'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(37): (vlog-13294) Identifier must be declared with a port mode: load_new_a.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(38): (vlog-2730) Undefined variable: 'show_a'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(38): (vlog-13294) Identifier must be declared with a port mode: show_a.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(39): (vlog-2730) Undefined variable: 'show_new_time'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(39): (vlog-13294) Identifier must be declared with a port mode: show_new_time.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(40): (vlog-2730) Undefined variable: 'load_new_c'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(40): (vlog-13294) Identifier must be declared with a port mode: load_new_c.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(41): (vlog-2730) Undefined variable: 'shift'.
+** Error: D:/MP/Verilog_labs/Alarm Clock Proj/rtl/fsm.v(41): (vlog-13294) Identifier must be declared with a port mode: shift.
+
+} {10.0 35.0} {}}
